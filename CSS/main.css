@@ -1,0 +1,73 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+}
+p {font-size: 16px;}
+.form {
+  color: #2A3132;
+
+}
+.margin {margin-bottom: 10px;}
+
+/*Header Block*/
+.bg-1 {
+    background-color: #90AFC5; /* mist */
+    color: #ffffff;
+    }
+    .navbar {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        border: 0;
+        border-radius: 0;
+        margin-bottom: 0;
+        font-size: 12px;
+        letter-spacing: 5px;
+    }
+    .navbar-nav  li a:hover {
+        color: #1abc9c !important;
+    }
+
+/*Who are we? Block*/
+.bg-2 {
+    background-color: #336B87; /* stone */
+    color: #ffffff;
+}
+.btn-padding {
+padding-bottom: 1px;
+text-align: center;
+line-height: auto;
+}
+
+/*Past Events Block*/
+.bg-3 {
+    background-color: #2A3132; /* shadow */
+    color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.col-md-4 {
+max-width: 650px;
+align-content: center;
+  margin: 0 auto;
+}
+
+/*Footer Block*/
+.bg-4 {
+    background-color: #763626; /* autumn foliage */
+    color: #fff;
+
+}
+
+.footer {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.container-fluid {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
