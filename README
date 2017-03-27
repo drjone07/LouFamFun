@@ -5,3 +5,9 @@ the most recent events. This site was a passion-project as it's somethinig I've
 seen done before but never really well.  
 
 How to RUN: Run the index.html file and enjoy! 
+
+Some things to know:
+1. Breakpoints are evident in 3 container's photos (going from row, to column at md size in bootstrap and then scaling in size) as well as with the footer,
+which breaks from two to a single column (when you get to the small size in bootstrap)
+2. You'll see usage of a modal and form features as well as a responsive nav
+3. You'll also see integration of Google's map location features
