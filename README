@@ -11,3 +11,4 @@ Some things to know:
 which breaks from two to a single column (when you get to the small size in bootstrap)
 2. You'll see usage of a modal and form features as well as a responsive nav
 3. You'll also see integration of Google's map location features
+4. The framework I used was bootstrap
